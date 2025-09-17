@@ -82,7 +82,7 @@ Ejecución:
 # Extracción de datos, Análisis principal y Análisis de sensibilidad
 jupyter notebook notebooks/Pobreza_BM_Bo_Fin3.ipynb
 
-##💡 Aprendizajes Clave
+## 💡 Aprendizajes Clave
 Integración de datos heterogéneos: APIs, archivos Excel, datos manuales
 
 Análisis de sensibilidad: Identificación de drivers clave mediante correlaciones
@@ -91,7 +91,7 @@ Storytelling con datos: Comunicación efectiva de hallazgos complejos
 
 Limitaciones metodológicas: Transparencia sobre alcances y restricciones
 
-##🎯 Aplicaciones Prácticas
+## 🎯 Aplicaciones Prácticas
 Política pública: Recomendaciones basadas en evidencia cuantitativa
 
 Academia: Base metodológica para investigación en economía del desarrollo
@@ -100,14 +100,14 @@ Cooperación internacional: Guía para inversión social efectiva
 
 Sociedad civil: Herramientas para vigilancia social
 
-##⚠️ Limitaciones y Consideraciones
+## ⚠️ Limitaciones y Consideraciones
 Datos de pobreza disponibles solo hasta 2021 (pre-crisis actual)
 
 Ruptura estructural en 2022-2025 limita capacidad predictiva
 
 Análisis se centra en relaciones históricas, no predicciones
 
-##🤝 Contribuciones
+## 🤝 Contribuciones
 Este proyecto es de código abierto. Las contribuciones son bienvenidas en:
 Mejoras en visualizaciones
 Análisis adicionales
@@ -117,7 +117,7 @@ Traducciones
 📄 Licencia
 Distribuido bajo licencia MIT. Ver LICENSE para más información.
 
-📞 Contacto
+## 📞 Contacto
 [Samir Saba] - [samirsaba15@gmail.com]
 
 Project Link:
