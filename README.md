@@ -45,7 +45,7 @@ Matplotlib + Seaborn (Visualization)
 Scikit-learn (Análisis estadístico)
 Jupyter Notebooks (Análisis interactivo)
 Requests + APIs (Extracción de datos)
-
+```python
 
 ## 📁 Estructura del Proyecto
 Como acostubro, seguí la metodología de Google
