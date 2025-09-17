@@ -79,14 +79,9 @@ prerrequisitos
 pip install -r requirements.txt
 
 Ejecución:
-# 1. Extracción de datos
-jupyter notebook notebooks/1_data_acquisition.ipynb
+# 1. Extracción de datos, Análisis principal y Análisis de sensibilidad
 
-# 2. Análisis principal
 jupyter notebook notebooks/Pobreza_BM_Bo_Fin3.ipynb
-
-# 3. Análisis de sensibilidad
-jupyter notebook notebooks/sensitivity_analysis.ipynb
 
 ##💡 Aprendizajes Clave
 Integración de datos heterogéneos: APIs, archivos Excel, datos manuales
