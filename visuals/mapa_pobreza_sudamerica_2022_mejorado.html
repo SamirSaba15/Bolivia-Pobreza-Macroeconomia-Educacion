@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b61f83e30e9f96ee4cc8aa000539e45e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="
+    position: fixed;
+    bottom: 50px;
+    left: 50px;
+    width: 280px;
+    height: 160px;
+    background-color: white;
+    border: 2px solid grey;
+    z-index: 9999;
+    font-size: 12px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    font-family: Arial, sans-serif;
+">
+    <h4 style="margin: 0 0 12px 0; color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px;">
+        🎨 Niveles de Pobreza ($6.85/día)
+    </h4>
+    <div style="display: flex; align-items: center; margin: 6px 0;">
+        <div style="background-color: green; width: 20px; height: 20px; border: 2px solid white;
+                    margin-right: 12px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.2);"></div>
+        <span>Muy baja (< 3%)</span>
+    </div>
+    <div style="display: flex; align-items: center; margin: 6px 0;">
+        <div style="background-color: orange; width: 20px; height: 20px; border: 2px solid white;
+                    margin-right: 12px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.2);"></div>
+        <span>Baja (3-6%)</span>
+    </div>
+    <div style="display: flex; align-items: center; margin: 6px 0;">
+        <div style="background-color: red; width: 20px; height: 20px; border: 2px solid white;
+                    margin-right: 12px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.2);"></div>
+        <span>Media (6-9%)</span>
+    </div>
+    <div style="display: flex; align-items: center; margin: 6px 0;">
+        <div style="background-color: darkred; width: 20px; height: 20px; border: 2px solid white;
+                    margin-right: 12px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.2);"></div>
+        <span>Alta (> 9%)</span>
+    </div>
+    <div style="display: flex; align-items: center; margin: 6px 0;">
+        <div style="background-color: gray; width: 20px; height: 20px; border: 2px solid white;
+                    margin-right: 12px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.2);"></div>
+        <span>Sin datos</span>
+    </div>
+    <div style="margin-top: 8px; font-size: 10px; color: #6c757d;">
+        💡 Tamaño del círculo: PIB per cápita
+    </div>
+</div>
+    
+<div style="
+    position: fixed;
+    top: 20px;
+    left: 50px;
+    width: 600px;
+    height: 100px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: 2px solid #5a67d8;
+    z-index: 9999;
+    font-size: 14px;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    color: white;
+    font-family: Arial, sans-serif;
+">
+    <h2 style="margin: 0; font-size: 20px; font-weight: bold;">
+        🌎 MAPA INTERACTIVO: POBREZA Y DESARROLLO EN SUDAMÉRICA 2022
+    </h2>
+    <p style="margin: 8px 0 0 0; font-size: 12px; opacity: 0.9;">
+        Análisis multidimensional comparativo | Pobreza ($6.85/día) vs PIB per cápita
+    </p>
+    <p style="margin: 5px 0 0 0; font-size: 11px; opacity: 0.8;">
+        💰 Tamaño = PIB pc | 🎨 Color = Nivel de pobreza
+    </p>
+</div>
+    
+            <div class="folium-map" id="map_b61f83e30e9f96ee4cc8aa000539e45e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_b61f83e30e9f96ee4cc8aa000539e45e = L.map(
+                "map_b61f83e30e9f96ee4cc8aa000539e45e",
+                {
+                    center: [-15.0, -60.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+
+            
+
+        
+    
+            var tile_layer_cd8aa5c45023e45cc69b863030387575 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_cd8aa5c45023e45cc69b863030387575.addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+            var circle_marker_bf70d9083ec386a2dd65b9f847efd523 = L.circleMarker(
+                [-38.4161, -63.6167],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20.52559269529272, "stroke": true, "weight": 2}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_3d907b64896af5c7877eabf12b9c7a90 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_df9baf835b440a8a23bde0ab357d3775 = $(`<div id="html_df9baf835b440a8a23bde0ab357d3775" style="width: 100.0%; height: 100.0%;">             <div style="width: 300px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid green; padding-bottom: 8px; margin: 0 0 15px 0;">                     Argentina                 </h3>                  <div style="background-color: #f8f9fa; padding: 12px; border-radius: 8px; margin-bottom: 15px;">                     <h4 style="margin: 0 0 10px 0; color: #495057;">📊 Indicadores Clave</h4>                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">                         <div><strong>PIB pc:</strong></div>                         <div>$27,628</div>                         <div><strong>Población:</strong></div>                         <div>45,407,904</div>                         <div><strong>Desempleo:</strong></div>                         <div>6.8%</div>                     </div>                 </div>                  <h4 style="margin: 15px 0 10px 0; color: #495057;">🎯 Niveles de Pobreza</h4>                 <div style="background-color: #fff3cd; padding: 10px; border-radius: 6px; margin-bottom: 10px;">                     <div style="color: green; font-weight: bold; font-size: 16px;">                         Pobreza Multidimensional: 1.3%                     </div>                 </div>                  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px;">                     <div>Extrema ($2.15):</div>                     <div>0.6%</div>                     <div>Moderada ($3.65):</div>                     <div>2.5%</div>                     <div>Multidimensional:</div>                     <div>1.3%</div>                     <div>Línea Nacional:</div>                     <div>39.2%</div>                 </div>                  <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid #dee2e6;">                     <small style="color: #6c757d;">Fuente: Datos 2022 | Análisis Comparativo</small>                 </div>             </div>             </div>`)[0];
+                popup_3d907b64896af5c7877eabf12b9c7a90.setContent(html_df9baf835b440a8a23bde0ab357d3775);
+            
+        
+
+        circle_marker_bf70d9083ec386a2dd65b9f847efd523.bindPopup(popup_3d907b64896af5c7877eabf12b9c7a90)
+        ;
+
+        
+    
+    
+            var circle_marker_e4853d1236a81a3ad6123a2a73962f5f = L.circleMarker(
+                [-16.2902, -63.5887],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 16.936341486067704, "stroke": true, "weight": 2}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_a64f9cdb329192c4f44a53b30cc1141f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_52ac93b0d28171a44df4ce5c46ac9cdb = $(`<div id="html_52ac93b0d28171a44df4ce5c46ac9cdb" style="width: 100.0%; height: 100.0%;">             <div style="width: 300px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid orange; padding-bottom: 8px; margin: 0 0 15px 0;">                     Bolivia                 </h3>                  <div style="background-color: #f8f9fa; padding: 12px; border-radius: 8px; margin-bottom: 15px;">                     <h4 style="margin: 0 0 10px 0; color: #495057;">📊 Indicadores Clave</h4>                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">                         <div><strong>PIB pc:</strong></div>                         <div>$9,682</div>                         <div><strong>Población:</strong></div>                         <div>12,077,154</div>                         <div><strong>Desempleo:</strong></div>                         <div>3.6%</div>                     </div>                 </div>                  <h4 style="margin: 15px 0 10px 0; color: #495057;">🎯 Niveles de Pobreza</h4>                 <div style="background-color: #fff3cd; padding: 10px; border-radius: 6px; margin-bottom: 10px;">                     <div style="color: orange; font-weight: bold; font-size: 16px;">                         Pobreza Multidimensional: 5.5%                     </div>                 </div>                  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px;">                     <div>Extrema ($2.15):</div>                     <div>nan%</div>                     <div>Moderada ($3.65):</div>                     <div>nan%</div>                     <div>Multidimensional:</div>                     <div>5.5%</div>                     <div>Línea Nacional:</div>                     <div>37.7%</div>                 </div>                  <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid #dee2e6;">                     <small style="color: #6c757d;">Fuente: Datos 2022 | Análisis Comparativo</small>                 </div>             </div>             </div>`)[0];
+                popup_a64f9cdb329192c4f44a53b30cc1141f.setContent(html_52ac93b0d28171a44df4ce5c46ac9cdb);
+            
+        
+
+        circle_marker_e4853d1236a81a3ad6123a2a73962f5f.bindPopup(popup_a64f9cdb329192c4f44a53b30cc1141f)
+        ;
+
+        
+    
+    
+            var circle_marker_da8dbf83276f4d55d9769a8bb07971c0 = L.circleMarker(
+                [-14.235, -51.9253],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.710809236571322, "stroke": true, "weight": 2}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_7162dbb934a24c0db35602f88898600d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_41804a3a52598b55ed77b2a2612c93a5 = $(`<div id="html_41804a3a52598b55ed77b2a2612c93a5" style="width: 100.0%; height: 100.0%;">             <div style="width: 300px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid orange; padding-bottom: 8px; margin: 0 0 15px 0;">                     Brasil                 </h3>                  <div style="background-color: #f8f9fa; padding: 12px; border-radius: 8px; margin-bottom: 15px;">                     <h4 style="margin: 0 0 10px 0; color: #495057;">📊 Indicadores Clave</h4>                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">                         <div><strong>PIB pc:</strong></div>                         <div>$18,554</div>                         <div><strong>Población:</strong></div>                         <div>210,306,415</div>                         <div><strong>Desempleo:</strong></div>                         <div>9.2%</div>                     </div>                 </div>                  <h4 style="margin: 15px 0 10px 0; color: #495057;">🎯 Niveles de Pobreza</h4>                 <div style="background-color: #fff3cd; padding: 10px; border-radius: 6px; margin-bottom: 10px;">                     <div style="color: orange; font-weight: bold; font-size: 16px;">                         Pobreza Multidimensional: 5.4%                     </div>                 </div>                  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px;">                     <div>Extrema ($2.15):</div>                     <div>3.5%</div>                     <div>Moderada ($3.65):</div>                     <div>8.4%</div>                     <div>Multidimensional:</div>                     <div>5.4%</div>                     <div>Línea Nacional:</div>                     <div>nan%</div>                 </div>                  <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid #dee2e6;">                     <small style="color: #6c757d;">Fuente: Datos 2022 | Análisis Comparativo</small>                 </div>             </div>             </div>`)[0];
+                popup_7162dbb934a24c0db35602f88898600d.setContent(html_41804a3a52598b55ed77b2a2612c93a5);
+            
+        
+
+        circle_marker_da8dbf83276f4d55d9769a8bb07971c0.bindPopup(popup_7162dbb934a24c0db35602f88898600d)
+        ;
+
+        
+    
+    
+            var circle_marker_146c8aafc4722fa010ac828fa4755e51 = L.circleMarker(
+                [-35.6751, -71.5429],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20.91389551055874, "stroke": true, "weight": 2}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_5811c65f3995d5c659dc34c9066af45e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_fb8cb24d06c52db771dc5a8a02f153d0 = $(`<div id="html_fb8cb24d06c52db771dc5a8a02f153d0" style="width: 100.0%; height: 100.0%;">             <div style="width: 300px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid green; padding-bottom: 8px; margin: 0 0 15px 0;">                     Chile                 </h3>                  <div style="background-color: #f8f9fa; padding: 12px; border-radius: 8px; margin-bottom: 15px;">                     <h4 style="margin: 0 0 10px 0; color: #495057;">📊 Indicadores Clave</h4>                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">                         <div><strong>PIB pc:</strong></div>                         <div>$29,569</div>                         <div><strong>Población:</strong></div>                         <div>19,553,036</div>                         <div><strong>Desempleo:</strong></div>                         <div>8.2%</div>                     </div>                 </div>                  <h4 style="margin: 15px 0 10px 0; color: #495057;">🎯 Niveles de Pobreza</h4>                 <div style="background-color: #fff3cd; padding: 10px; border-radius: 6px; margin-bottom: 10px;">                     <div style="color: green; font-weight: bold; font-size: 16px;">                         Pobreza Multidimensional: 0.6%                     </div>                 </div>                  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px;">                     <div>Extrema ($2.15):</div>                     <div>0.4%</div>                     <div>Moderada ($3.65):</div>                     <div>0.9%</div>                     <div>Multidimensional:</div>                     <div>0.6%</div>                     <div>Línea Nacional:</div>                     <div>6.5%</div>                 </div>                  <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid #dee2e6;">                     <small style="color: #6c757d;">Fuente: Datos 2022 | Análisis Comparativo</small>                 </div>             </div>             </div>`)[0];
+                popup_5811c65f3995d5c659dc34c9066af45e.setContent(html_fb8cb24d06c52db771dc5a8a02f153d0);
+            
+        
+
+        circle_marker_146c8aafc4722fa010ac828fa4755e51.bindPopup(popup_5811c65f3995d5c659dc34c9066af45e)
+        ;
+
+        
+    
+    
+            var circle_marker_686bcf5231747def0af0390a10192aa8 = L.circleMarker(
+                [4.5709, -74.2973],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkred", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.69174418921408, "stroke": true, "weight": 2}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_148aac6e91bb68b7bf779cd95aa805f1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_fb8a2461d8c8304cf8d886faae4b93f7 = $(`<div id="html_fb8a2461d8c8304cf8d886faae4b93f7" style="width: 100.0%; height: 100.0%;">             <div style="width: 300px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid darkred; padding-bottom: 8px; margin: 0 0 15px 0;">                     Colombia                 </h3>                  <div style="background-color: #f8f9fa; padding: 12px; border-radius: 8px; margin-bottom: 15px;">                     <h4 style="margin: 0 0 10px 0; color: #495057;">📊 Indicadores Clave</h4>                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">                         <div><strong>PIB pc:</strong></div>                         <div>$18,459</div>                         <div><strong>Población:</strong></div>                         <div>51,737,944</div>                         <div><strong>Desempleo:</strong></div>                         <div>10.5%</div>                     </div>                 </div>                  <h4 style="margin: 15px 0 10px 0; color: #495057;">🎯 Niveles de Pobreza</h4>                 <div style="background-color: #fff3cd; padding: 10px; border-radius: 6px; margin-bottom: 10px;">                     <div style="color: darkred; font-weight: bold; font-size: 16px;">                         Pobreza Multidimensional: 9.7%                     </div>                 </div>                  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px;">                     <div>Extrema ($2.15):</div>                     <div>6.0%</div>                     <div>Moderada ($3.65):</div>                     <div>14.0%</div>                     <div>Multidimensional:</div>                     <div>9.7%</div>                     <div>Línea Nacional:</div>                     <div>36.6%</div>                 </div>                  <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid #dee2e6;">                     <small style="color: #6c757d;">Fuente: Datos 2022 | Análisis Comparativo</small>                 </div>             </div>             </div>`)[0];
+                popup_148aac6e91bb68b7bf779cd95aa805f1.setContent(html_fb8a2461d8c8304cf8d886faae4b93f7);
+            
+        
+
+        circle_marker_686bcf5231747def0af0390a10192aa8.bindPopup(popup_148aac6e91bb68b7bf779cd95aa805f1)
+        ;
+
+        
+    
+    
+            var circle_marker_fc3b25ceda1e0afa52e42eaee65c4cee = L.circleMarker(
+                [-1.8312, -78.1834],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.8373277708925, "stroke": true, "weight": 2}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_4274311dd1780e472615bf17ae4b2df5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_aefd6fb48bf15be42929a03eb281d193 = $(`<div id="html_aefd6fb48bf15be42929a03eb281d193" style="width: 100.0%; height: 100.0%;">             <div style="width: 300px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid orange; padding-bottom: 8px; margin: 0 0 15px 0;">                     Ecuador                 </h3>                  <div style="background-color: #f8f9fa; padding: 12px; border-radius: 8px; margin-bottom: 15px;">                     <h4 style="margin: 0 0 10px 0; color: #495057;">📊 Indicadores Clave</h4>                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">                         <div><strong>PIB pc:</strong></div>                         <div>$14,187</div>                         <div><strong>Población:</strong></div>                         <div>17,823,897</div>                         <div><strong>Desempleo:</strong></div>                         <div>3.8%</div>                     </div>                 </div>                  <h4 style="margin: 15px 0 10px 0; color: #495057;">🎯 Niveles de Pobreza</h4>                 <div style="background-color: #fff3cd; padding: 10px; border-radius: 6px; margin-bottom: 10px;">                     <div style="color: orange; font-weight: bold; font-size: 16px;">                         Pobreza Multidimensional: 5.1%                     </div>                 </div>                  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px;">                     <div>Extrema ($2.15):</div>                     <div>3.2%</div>                     <div>Moderada ($3.65):</div>                     <div>9.5%</div>                     <div>Multidimensional:</div>                     <div>5.1%</div>                     <div>Línea Nacional:</div>                     <div>25.2%</div>                 </div>                  <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid #dee2e6;">                     <small style="color: #6c757d;">Fuente: Datos 2022 | Análisis Comparativo</small>                 </div>             </div>             </div>`)[0];
+                popup_4274311dd1780e472615bf17ae4b2df5.setContent(html_aefd6fb48bf15be42929a03eb281d193);
+            
+        
+
+        circle_marker_fc3b25ceda1e0afa52e42eaee65c4cee.bindPopup(popup_4274311dd1780e472615bf17ae4b2df5)
+        ;
+
+        
+    
+    
+            var circle_marker_e20b9d93dd54b105dcca30d1e7c0905f = L.circleMarker(
+                [-9.19, -75.0152],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.1119643287288, "stroke": true, "weight": 2}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_171099c3319bc55eb67c39617cdefc69 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3cdea6efc0d4a01a1295646c51e88253 = $(`<div id="html_3cdea6efc0d4a01a1295646c51e88253" style="width: 100.0%; height: 100.0%;">             <div style="width: 300px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid red; padding-bottom: 8px; margin: 0 0 15px 0;">                     Perú                 </h3>                  <div style="background-color: #f8f9fa; padding: 12px; border-radius: 8px; margin-bottom: 15px;">                     <h4 style="margin: 0 0 10px 0; color: #495057;">📊 Indicadores Clave</h4>                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">                         <div><strong>PIB pc:</strong></div>                         <div>$15,560</div>                         <div><strong>Población:</strong></div>                         <div>33,475,438</div>                         <div><strong>Desempleo:</strong></div>                         <div>3.9%</div>                     </div>                 </div>                  <h4 style="margin: 15px 0 10px 0; color: #495057;">🎯 Niveles de Pobreza</h4>                 <div style="background-color: #fff3cd; padding: 10px; border-radius: 6px; margin-bottom: 10px;">                     <div style="color: red; font-weight: bold; font-size: 16px;">                         Pobreza Multidimensional: 6.0%                     </div>                 </div>                  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px;">                     <div>Extrema ($2.15):</div>                     <div>2.7%</div>                     <div>Moderada ($3.65):</div>                     <div>9.5%</div>                     <div>Multidimensional:</div>                     <div>6.0%</div>                     <div>Línea Nacional:</div>                     <div>27.5%</div>                 </div>                  <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid #dee2e6;">                     <small style="color: #6c757d;">Fuente: Datos 2022 | Análisis Comparativo</small>                 </div>             </div>             </div>`)[0];
+                popup_171099c3319bc55eb67c39617cdefc69.setContent(html_3cdea6efc0d4a01a1295646c51e88253);
+            
+        
+
+        circle_marker_e20b9d93dd54b105dcca30d1e7c0905f.bindPopup(popup_171099c3319bc55eb67c39617cdefc69)
+        ;
+
+        
+    
+    
+            var circle_marker_0621f271a75a38baf448db9c5019d703 = L.circleMarker(
+                [-23.4425, -58.4438],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.05182912623652, "stroke": true, "weight": 2}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_190211ebe0943d2ae85648f99a6480c5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0674d380b9bc01050340d9564364301c = $(`<div id="html_0674d380b9bc01050340d9564364301c" style="width: 100.0%; height: 100.0%;">             <div style="width: 300px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid orange; padding-bottom: 8px; margin: 0 0 15px 0;">                     Paraguay                 </h3>                  <div style="background-color: #f8f9fa; padding: 12px; border-radius: 8px; margin-bottom: 15px;">                     <h4 style="margin: 0 0 10px 0; color: #495057;">📊 Indicadores Clave</h4>                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">                         <div><strong>PIB pc:</strong></div>                         <div>$15,259</div>                         <div><strong>Población:</strong></div>                         <div>6,760,464</div>                         <div><strong>Desempleo:</strong></div>                         <div>6.8%</div>                     </div>                 </div>                  <h4 style="margin: 15px 0 10px 0; color: #495057;">🎯 Niveles de Pobreza</h4>                 <div style="background-color: #fff3cd; padding: 10px; border-radius: 6px; margin-bottom: 10px;">                     <div style="color: orange; font-weight: bold; font-size: 16px;">                         Pobreza Multidimensional: 3.9%                     </div>                 </div>                  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px;">                     <div>Extrema ($2.15):</div>                     <div>1.3%</div>                     <div>Moderada ($3.65):</div>                     <div>5.6%</div>                     <div>Multidimensional:</div>                     <div>3.9%</div>                     <div>Línea Nacional:</div>                     <div>24.7%</div>                 </div>                  <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid #dee2e6;">                     <small style="color: #6c757d;">Fuente: Datos 2022 | Análisis Comparativo</small>                 </div>             </div>             </div>`)[0];
+                popup_190211ebe0943d2ae85648f99a6480c5.setContent(html_0674d380b9bc01050340d9564364301c);
+            
+        
+
+        circle_marker_0621f271a75a38baf448db9c5019d703.bindPopup(popup_190211ebe0943d2ae85648f99a6480c5)
+        ;
+
+        
+    
+    
+            var circle_marker_fa9a0b95d1f6771ff27255a63b2a6f41 = L.circleMarker(
+                [-32.5228, -55.7658],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 21.16094065551594, "stroke": true, "weight": 2}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_feff4c1f0674e45e576267993eece000 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b5b36d5bc900c6ae5e277c7c2344bccf = $(`<div id="html_b5b36d5bc900c6ae5e277c7c2344bccf" style="width: 100.0%; height: 100.0%;">             <div style="width: 300px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid green; padding-bottom: 8px; margin: 0 0 15px 0;">                     Uruguay                 </h3>                  <div style="background-color: #f8f9fa; padding: 12px; border-radius: 8px; margin-bottom: 15px;">                     <h4 style="margin: 0 0 10px 0; color: #495057;">📊 Indicadores Clave</h4>                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">                         <div><strong>PIB pc:</strong></div>                         <div>$30,805</div>                         <div><strong>Población:</strong></div>                         <div>3,390,913</div>                         <div><strong>Desempleo:</strong></div>                         <div>7.9%</div>                     </div>                 </div>                  <h4 style="margin: 15px 0 10px 0; color: #495057;">🎯 Niveles de Pobreza</h4>                 <div style="background-color: #fff3cd; padding: 10px; border-radius: 6px; margin-bottom: 10px;">                     <div style="color: green; font-weight: bold; font-size: 16px;">                         Pobreza Multidimensional: 0.2%                     </div>                 </div>                  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px;">                     <div>Extrema ($2.15):</div>                     <div>0.2%</div>                     <div>Moderada ($3.65):</div>                     <div>0.8%</div>                     <div>Multidimensional:</div>                     <div>0.2%</div>                     <div>Línea Nacional:</div>                     <div>9.9%</div>                 </div>                  <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid #dee2e6;">                     <small style="color: #6c757d;">Fuente: Datos 2022 | Análisis Comparativo</small>                 </div>             </div>             </div>`)[0];
+                popup_feff4c1f0674e45e576267993eece000.setContent(html_b5b36d5bc900c6ae5e277c7c2344bccf);
+            
+        
+
+        circle_marker_fa9a0b95d1f6771ff27255a63b2a6f41.bindPopup(popup_feff4c1f0674e45e576267993eece000)
+        ;
+
+        
+    
+    
+            var circle_marker_c67181c69f9245de479883318523178a = L.circleMarker(
+                [6.4238, -66.5897],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightgray", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 1}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+        
+    
+        var popup_5eb32460274d50efcb593f5525972bfc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_72e10437abf16dc7362595fddce32d31 = $(`<div id="html_72e10437abf16dc7362595fddce32d31" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px; font-family: Arial, sans-serif;">                 <h3 style="color: #2c3e50; border-bottom: 2px solid gray; padding-bottom: 8px;">                     Venezuela                 </h3>                 <p style="color: #6c757d;">❌ Datos de pobreza no disponibles para 2022</p>                 <div style="margin-top: 10px; font-size: 12px;">                     <strong>Población:</strong> 28,213,017<br>                     <strong>Desempleo:</strong> 5.7%                 </div>             </div>             </div>`)[0];
+                popup_5eb32460274d50efcb593f5525972bfc.setContent(html_72e10437abf16dc7362595fddce32d31);
+            
+        
+
+        circle_marker_c67181c69f9245de479883318523178a.bindPopup(popup_5eb32460274d50efcb593f5525972bfc)
+        ;
+
+        
+    
+    
+            var layer_control_0f140ccc355a0b38425a307ac2084862_layers = {
+                base_layers : {
+                    "cartodbpositron" : tile_layer_cd8aa5c45023e45cc69b863030387575,
+                },
+                overlays :  {
+                },
+            };
+            let layer_control_0f140ccc355a0b38425a307ac2084862 = L.control.layers(
+                layer_control_0f140ccc355a0b38425a307ac2084862_layers.base_layers,
+                layer_control_0f140ccc355a0b38425a307ac2084862_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_b61f83e30e9f96ee4cc8aa000539e45e);
+
+        
+</script>
+</html>
