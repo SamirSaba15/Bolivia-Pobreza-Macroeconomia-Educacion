@@ -79,8 +79,7 @@ prerrequisitos
 pip install -r requirements.txt
 
 Ejecución:
-# 1. Extracción de datos, Análisis principal y Análisis de sensibilidad
-
+# Extracción de datos, Análisis principal y Análisis de sensibilidad
 jupyter notebook notebooks/Pobreza_BM_Bo_Fin3.ipynb
 
 ##💡 Aprendizajes Clave
