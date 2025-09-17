@@ -50,6 +50,7 @@ Requests + APIs (Extracción de datos)
 ## 📁 Estructura del Proyecto
 Como acostubro, seguí la metodología de Google
 (Ask -> Prepare -> Process -> Analyze -> Act & Share)
+
 bolivia-poverty-analysis/
 │
 ├── 📊 Data Acquisition & Cleaning
@@ -58,8 +59,7 @@ bolivia-poverty-analysis/
 │   └── Datos Banco Central (Inflación 2025)
 │
 ├── 📈 Analysis
-│   ├── Análisis de series temporales (1990-2021) Pobreza y educación
-│   ├── Análisis Macroeconómico
+│   ├── Análisis de series temporales (1990-2021)
 │   ├── Análisis de sensibilidad multivariado
 │   ├── Comparativa regional Latinoamérica
 │   └── Análisis urbano/rural diferenciado
@@ -67,7 +67,7 @@ bolivia-poverty-analysis/
 ├── 📊 Visualization
 │   ├── Heatmaps de correlación
 │   ├── Trend analysis interactivo
-│   └── Dashboard preparation y mapas interactivos
+│   └── Dashboard preparation
 │
 └── 📋 Reporting
     ├── Análisis ejecutivo
