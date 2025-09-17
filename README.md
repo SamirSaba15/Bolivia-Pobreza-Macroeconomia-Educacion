@@ -46,6 +46,7 @@ Scikit-learn (Análisis estadístico)
 Jupyter Notebooks (Análisis interactivo)
 Requests + APIs (Extracción de datos)
 
+text
 📁 Estructura del Proyecto
 Como acostubro, seguí la metodología de Google
 (Ask -> Prepare -> Process -> Analyze -> Act & Share)
@@ -74,6 +75,7 @@ bolivia-poverty-analysis/
     └── Limitaciones metodológicas
 
 🚀 Cómo Ejecutar el Proyecto
+prerrequisitos
 pip install -r requirements.txt
 
 Ejecución:
