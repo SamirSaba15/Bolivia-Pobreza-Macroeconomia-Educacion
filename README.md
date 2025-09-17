@@ -46,8 +46,8 @@ Scikit-learn (Análisis estadístico)
 Jupyter Notebooks (Análisis interactivo)
 Requests + APIs (Extracción de datos)
 
-text
-📁 Estructura del Proyecto
+
+## 📁 Estructura del Proyecto
 Como acostubro, seguí la metodología de Google
 (Ask -> Prepare -> Process -> Analyze -> Act & Share)
 bolivia-poverty-analysis/
@@ -74,7 +74,7 @@ bolivia-poverty-analysis/
     ├── Recomendaciones de política
     └── Limitaciones metodológicas
 
-🚀 Cómo Ejecutar el Proyecto
+##🚀 Cómo Ejecutar el Proyecto
 prerrequisitos
 pip install -r requirements.txt
 
@@ -88,7 +88,7 @@ jupyter notebook notebooks/Pobreza_BM_Bo_Fin3.ipynb
 # 3. Análisis de sensibilidad
 jupyter notebook notebooks/sensitivity_analysis.ipynb
 
-💡 Aprendizajes Clave
+##💡 Aprendizajes Clave
 Integración de datos heterogéneos: APIs, archivos Excel, datos manuales
 
 Análisis de sensibilidad: Identificación de drivers clave mediante correlaciones
@@ -97,7 +97,7 @@ Storytelling con datos: Comunicación efectiva de hallazgos complejos
 
 Limitaciones metodológicas: Transparencia sobre alcances y restricciones
 
-🎯 Aplicaciones Prácticas
+##🎯 Aplicaciones Prácticas
 Política pública: Recomendaciones basadas en evidencia cuantitativa
 
 Academia: Base metodológica para investigación en economía del desarrollo
@@ -106,14 +106,14 @@ Cooperación internacional: Guía para inversión social efectiva
 
 Sociedad civil: Herramientas para vigilancia social
 
-⚠️ Limitaciones y Consideraciones
+##⚠️ Limitaciones y Consideraciones
 Datos de pobreza disponibles solo hasta 2021 (pre-crisis actual)
 
 Ruptura estructural en 2022-2025 limita capacidad predictiva
 
 Análisis se centra en relaciones históricas, no predicciones
 
-🤝 Contribuciones
+##🤝 Contribuciones
 Este proyecto es de código abierto. Las contribuciones son bienvenidas en:
 Mejoras en visualizaciones
 Análisis adicionales
