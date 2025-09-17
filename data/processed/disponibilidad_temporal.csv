@@ -1,0 +1,79 @@
+﻿indicador_nombre,fuente,primer_año,ultimo_año,total_años,rango_años
+Pobreza Extrema ($2.15/día),INE Bolivia,1990,2021,24,1990-2021
+Pobreza Moderada ($3.65/día),INE Bolivia,1990,2021,24,1990-2021
+Pobreza ($6.85/día),INE Bolivia,1990,2021,24,1990-2021
+Pobreza Multidimensional,INE Bolivia,2011,2023,13,2011-2023
+Privación Educación - Matrícula,INE Bolivia,2011,2021,11,2011-2021
+Privación Educación - Logro,INE Bolivia,2011,2021,11,2011-2021
+Privación Electricidad,INE Bolivia,2011,2021,11,2011-2021
+Privación Agua Potable,INE Bolivia,2011,2021,11,2011-2021
+Privación Saneamiento,INE Bolivia,2011,2021,11,2011-2021
+Privación Pobreza Monetaria,INE Bolivia,2011,2021,11,2011-2021
+Pobreza Línea Nacional,INE Bolivia,2000,2022,21,2000-2022
+PIB per cápita (PPA),INE Bolivia,1990,2024,35,1990-2024
+Tasa Desempleo,INE Bolivia,1991,2024,34,1991-2024
+Población Total,INE Bolivia,1960,2024,65,1960-2024
+Inflación anual (%),INE Bolivia,1960,2025,66,1960-2025
+Crecimiento PIB anual (%),INE Bolivia,1961,2024,64,1961-2024
+Gasto público (% PIB),INE Bolivia,1986,2007,22,1986-2007
+Exportaciones (% PIB),INE Bolivia,1960,2023,64,1960-2023
+Gasto en educación (% PIB),INE Bolivia,2002,2022,21,2002-2022
+Gasto en salud (% PIB),INE Bolivia,2000,2022,23,2000-2022
+Tasa Alfabetismo Total,INE Bolivia,2001,2024,3,2001-2024
+Tasa Alfabetismo Hombres,INE Bolivia,2001,2024,3,2001-2024
+Tasa Alfabetismo Mujeres,INE Bolivia,2001,2024,3,2001-2024
+Brecha Alfabetismo H-M,INE Bolivia,2001,2024,3,2001-2024
+Población Alfabetismo - Total,INE Bolivia,2001,2024,3,2001-2024
+Población Alfabetismo - Hombres,INE Bolivia,2001,2024,3,2001-2024
+Población Alfabetismo - Mujeres,INE Bolivia,2001,2024,3,2001-2024
+Tasa Alfabetismo por Edad - Total,INE Bolivia,2001,2024,3,2001-2024
+Tasa Alfabetismo por Edad - Hombres,INE Bolivia,2001,2024,3,2001-2024
+Tasa Alfabetismo por Edad - Mujeres,INE Bolivia,2001,2024,3,2001-2024
+Brecha Alfabetismo por Edad H-M,INE Bolivia,2001,2024,3,2001-2024
+Población Alfabetismo Edad - Total,INE Bolivia,2001,2024,3,2001-2024
+Población Alfabetismo Edad - Hombres,INE Bolivia,2001,2024,3,2001-2024
+Población Alfabetismo Edad - Mujeres,INE Bolivia,2001,2024,3,2001-2024
+Tasa Asistencia Escolar - Total,INE Bolivia,2001,2024,3,2001-2024
+Tasa Asistencia Escolar - Hombres,INE Bolivia,2001,2024,3,2001-2024
+Tasa Asistencia Escolar - Mujeres,INE Bolivia,2001,2024,3,2001-2024
+Población en Edad Escolar - Total,INE Bolivia,2001,2024,3,2001-2024
+Población en Edad Escolar - Hombres,INE Bolivia,2001,2024,3,2001-2024
+Población en Edad Escolar - Mujeres,INE Bolivia,2001,2024,3,2001-2024
+Años de Estudio por Área - Total,INE Bolivia,2001,2024,3,2001-2024
+Años de Estudio por Área - Hombres,INE Bolivia,2001,2024,3,2001-2024
+Años de Estudio por Área - Mujeres,INE Bolivia,2001,2024,3,2001-2024
+Población Estudio por Área - Total,INE Bolivia,2001,2024,3,2001-2024
+Población Estudio por Área - Hombres,INE Bolivia,2001,2024,3,2001-2024
+Población Estudio por Área - Mujeres,INE Bolivia,2001,2024,3,2001-2024
+NBI - Pobreza Total,INE Bolivia,2012,2024,2,2012-2024
+NBI - Pobreza Moderada,INE Bolivia,2012,2024,2,2012-2024
+NBI - Indigencia,INE Bolivia,2012,2024,2,2012-2024
+NBI - Marginalidad,INE Bolivia,2012,2024,2,2012-2024
+NBI - Población Referencia,INE Bolivia,2012,2024,2,2012-2024
+NBI - No Pobre Total,INE Bolivia,2012,2024,2,2012-2024
+NBI - Necesidades Satisfechas,INE Bolivia,2012,2024,2,2012-2024
+NBI - Umbral Pobreza,INE Bolivia,2012,2024,2,2012-2024
+NBI Tasa - Pobreza Total,INE Bolivia,2012,2024,2,2012-2024
+NBI Tasa - Pobreza Moderada,INE Bolivia,2012,2024,2,2012-2024
+NBI Tasa - Indigencia,INE Bolivia,2012,2024,2,2012-2024
+NBI Tasa - Marginalidad,INE Bolivia,2012,2024,2,2012-2024
+Pobreza Extrema ($2.15/día),Banco Mundial,1980,2023,44,1980-2023
+Pobreza Moderada ($3.65/día),Banco Mundial,1980,2023,44,1980-2023
+Pobreza ($6.85/día),Banco Mundial,1980,2023,44,1980-2023
+Pobreza Multidimensional,Banco Mundial,2010,2023,14,2010-2023
+Privación Educación - Matrícula,Banco Mundial,2010,2023,14,2010-2023
+Privación Educación - Logro,Banco Mundial,2010,2023,14,2010-2023
+Privación Electricidad,Banco Mundial,2010,2023,14,2010-2023
+Privación Agua Potable,Banco Mundial,2010,2023,14,2010-2023
+Privación Saneamiento,Banco Mundial,2010,2023,14,2010-2023
+Privación Pobreza Monetaria,Banco Mundial,2010,2023,14,2010-2023
+Pobreza Línea Nacional,Banco Mundial,2000,2023,24,2000-2023
+PIB per cápita (PPA),Banco Mundial,1990,2024,35,1990-2024
+Tasa Desempleo,Banco Mundial,1991,2024,34,1991-2024
+Población Total,Banco Mundial,1960,2024,65,1960-2024
+Inflación anual (%),Banco Mundial,1960,2024,65,1960-2024
+Crecimiento PIB anual (%),Banco Mundial,1961,2024,64,1961-2024
+Gasto público (% PIB),Banco Mundial,1972,2023,52,1972-2023
+Exportaciones (% PIB),Banco Mundial,1960,2024,65,1960-2024
+Gasto en educación (% PIB),Banco Mundial,1970,2023,54,1970-2023
+Gasto en salud (% PIB),Banco Mundial,2000,2023,24,2000-2023

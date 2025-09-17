@@ -1,0 +1,80 @@
+﻿indicador_nombre,codigo_indicador,fuente,tipo
+Pobreza Extrema ($2.15/día),WB_PIP_HEADCOUNT_IPL,Banco Mundial,
+Pobreza Moderada ($3.65/día),WB_PIP_HEADCOUNT_LMIC,Banco Mundial,
+Pobreza ($6.85/día),WB_PIP_HEADCOUNT_UMIC,Banco Mundial,
+Pobreza Multidimensional,SI.POV.MPWB,Banco Mundial,
+Privación Educación - Matrícula,WB_MPM_EDU_ENROLL,Banco Mundial,
+Privación Educación - Logro,WB_MPM_EDU_ATT,Banco Mundial,
+Privación Electricidad,WB_MPM_ELEC,Banco Mundial,
+Privación Agua Potable,WB_MPM_WATER,Banco Mundial,
+Privación Saneamiento,WB_MPM_SANT,Banco Mundial,
+Privación Pobreza Monetaria,WB_MPM_MONETARY,Banco Mundial,
+Pobreza Línea Nacional,WB_WDI_SI_POV_NAHC,Banco Mundial,
+PIB per cápita (PPA),NY.GDP.PCAP.PP.KD,Banco Mundial,
+Tasa Desempleo,SL.UEM.TOTL.ZS,Banco Mundial,
+Población Total,SP.POP.TOTL,Banco Mundial,
+Inflación anual (%),FP.CPI.TOTL.ZG,Banco Mundial,
+Crecimiento PIB anual (%),NY.GDP.MKTP.KD.ZG,Banco Mundial,
+Gasto público (% PIB),GC.XPN.TOTL.GD.ZS,Banco Mundial,
+Exportaciones (% PIB),NE.EXP.GNFS.ZS,Banco Mundial,
+Gasto en educación (% PIB),SE.XPD.TOTL.GD.ZS,Banco Mundial,
+Gasto en salud (% PIB),SH.XPD.CHEX.GD.ZS,Banco Mundial,
+Tasa Alfabetismo Total,INE_ALFABETISMO_AREA,INE Bolivia,Educación
+Tasa Alfabetismo Hombres,INE_ALFABETISMO_AREA,INE Bolivia,Educación
+Tasa Alfabetismo Mujeres,INE_ALFABETISMO_AREA,INE Bolivia,Educación
+Brecha Alfabetismo H-M,INE_ALFABETISMO_AREA,INE Bolivia,Educación
+Población Alfabetismo - Total,INE_ALFABETISMO_AREA,INE Bolivia,Educación
+Población Alfabetismo - Hombres,INE_ALFABETISMO_AREA,INE Bolivia,Educación
+Población Alfabetismo - Mujeres,INE_ALFABETISMO_AREA,INE Bolivia,Educación
+Tasa Alfabetismo por Edad - Total,INE_ALFABETISMO_EDAD,INE Bolivia,Educación
+Tasa Alfabetismo por Edad - Hombres,INE_ALFABETISMO_EDAD,INE Bolivia,Educación
+Tasa Alfabetismo por Edad - Mujeres,INE_ALFABETISMO_EDAD,INE Bolivia,Educación
+Brecha Alfabetismo por Edad H-M,INE_ALFABETISMO_EDAD,INE Bolivia,Educación
+Población Alfabetismo Edad - Total,INE_ALFABETISMO_EDAD,INE Bolivia,Educación
+Población Alfabetismo Edad - Hombres,INE_ALFABETISMO_EDAD,INE Bolivia,Educación
+Población Alfabetismo Edad - Mujeres,INE_ALFABETISMO_EDAD,INE Bolivia,Educación
+Tasa Asistencia Escolar - Total,INE_ASISTENCIA,INE Bolivia,Educación
+Tasa Asistencia Escolar - Hombres,INE_ASISTENCIA,INE Bolivia,Educación
+Tasa Asistencia Escolar - Mujeres,INE_ASISTENCIA,INE Bolivia,Educación
+Población en Edad Escolar - Total,INE_ASISTENCIA,INE Bolivia,Educación
+Población en Edad Escolar - Hombres,INE_ASISTENCIA,INE Bolivia,Educación
+Población en Edad Escolar - Mujeres,INE_ASISTENCIA,INE Bolivia,Educación
+Años de Estudio por Área - Total,INE_ANOS_ESTUDIO_AREA,INE Bolivia,Educación
+Años de Estudio por Área - Hombres,INE_ANOS_ESTUDIO_AREA,INE Bolivia,Educación
+Años de Estudio por Área - Mujeres,INE_ANOS_ESTUDIO_AREA,INE Bolivia,Educación
+Población Estudio por Área - Total,INE_ANOS_ESTUDIO_AREA,INE Bolivia,Educación
+Población Estudio por Área - Hombres,INE_ANOS_ESTUDIO_AREA,INE Bolivia,Educación
+Población Estudio por Área - Mujeres,INE_ANOS_ESTUDIO_AREA,INE Bolivia,Educación
+NBI - Pobreza Total,INE_NBI_POBLACION,INE Bolivia,Pobreza
+NBI - Pobreza Moderada,INE_NBI_POBLACION,INE Bolivia,Pobreza
+NBI - Indigencia,INE_NBI_POBLACION,INE Bolivia,Pobreza
+NBI - Marginalidad,INE_NBI_POBLACION,INE Bolivia,Pobreza
+NBI - Población Referencia,INE_NBI_POBLACION,INE Bolivia,Pobreza
+NBI - No Pobre Total,INE_NBI_POBLACION,INE Bolivia,Pobreza
+NBI - Necesidades Satisfechas,INE_NBI_POBLACION,INE Bolivia,Pobreza
+NBI - Umbral Pobreza,INE_NBI_POBLACION,INE Bolivia,Pobreza
+NBI Tasa - Pobreza Total,INE_NBI_TASA,INE Bolivia,Pobreza
+NBI Tasa - Pobreza Moderada,INE_NBI_TASA,INE Bolivia,Pobreza
+NBI Tasa - Indigencia,INE_NBI_TASA,INE Bolivia,Pobreza
+NBI Tasa - Marginalidad,INE_NBI_TASA,INE Bolivia,Pobreza
+Inflación anual (%),BCB_INFLACION_ANUAL,Banco Central de Bolivia,Macroeconómicos
+Pobreza Extrema ($2.15/día),WB_PIP_HEADCOUNT_IPL,Banco Mundial,Regional
+Pobreza Moderada ($3.65/día),WB_PIP_HEADCOUNT_LMIC,Banco Mundial,Regional
+Pobreza ($6.85/día),WB_PIP_HEADCOUNT_UMIC,Banco Mundial,Regional
+Pobreza Multidimensional,SI.POV.MPWB,Banco Mundial,Regional
+Privación Educación - Matrícula,WB_MPM_EDU_ENROLL,Banco Mundial,Regional
+Privación Educación - Logro,WB_MPM_EDU_ATT,Banco Mundial,Regional
+Privación Electricidad,WB_MPM_ELEC,Banco Mundial,Regional
+Privación Agua Potable,WB_MPM_WATER,Banco Mundial,Regional
+Privación Saneamiento,WB_MPM_SANT,Banco Mundial,Regional
+Privación Pobreza Monetaria,WB_MPM_MONETARY,Banco Mundial,Regional
+Pobreza Línea Nacional,WB_WDI_SI_POV_NAHC,Banco Mundial,Regional
+PIB per cápita (PPA),NY.GDP.PCAP.PP.KD,Banco Mundial,Regional
+Tasa Desempleo,SL.UEM.TOTL.ZS,Banco Mundial,Regional
+Población Total,SP.POP.TOTL,Banco Mundial,Regional
+Inflación anual (%),FP.CPI.TOTL.ZG,Banco Mundial,Regional
+Crecimiento PIB anual (%),NY.GDP.MKTP.KD.ZG,Banco Mundial,Regional
+Gasto público (% PIB),GC.XPN.TOTL.GD.ZS,Banco Mundial,Regional
+Exportaciones (% PIB),NE.EXP.GNFS.ZS,Banco Mundial,Regional
+Gasto en educación (% PIB),SE.XPD.TOTL.GD.ZS,Banco Mundial,Regional
+Gasto en salud (% PIB),SH.XPD.CHEX.GD.ZS,Banco Mundial,Regional

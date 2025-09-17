@@ -1,0 +1,638 @@
+﻿year,value,indicador_nombre,country,codigo_indicador,fuente
+1990,1.08,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+1990,1.1,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+1992,8.7,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+1992,8.74,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+1997,15.54,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+1997,15.5,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+1999,21.9,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+1999,21.88,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2000,24.25,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2000,24.2,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2001,19.0,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2001,19.03,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2002,19.69,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2002,19.7,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2004,10.2,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2004,10.22,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2005,15.61,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2005,15.6,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2006,12.5,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2006,12.49,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2007,9.47,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2007,9.5,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2008,8.3,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2008,8.34,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2009,8.78,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2009,8.8,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2011,5.3,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2011,5.3,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2012,6.47,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2012,6.5,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2013,5.2,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2013,5.17,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2014,4.3,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2014,4.28,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2015,4.63,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2015,4.6,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2016,5.6,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2016,5.62,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2017,4.93,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2017,4.9,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2018,3.27,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2018,3.3,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2019,1.9,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2019,1.92,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2020,3.12,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2020,3.1,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2021,2.0,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+2021,1.96,Pobreza Extrema ($2.15/día),BOL,WB_PIP_HEADCOUNT_IPL,Banco Mundial
+1990,15.12,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+1990,15.1,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+1992,26.3,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+1992,26.3,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+1997,26.07,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+1997,26.1,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+1999,32.0,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+1999,31.97,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2000,35.42,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2000,35.4,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2001,29.8,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2001,29.79,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2002,31.63,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2002,31.6,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2004,21.1,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2004,21.1,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2005,25.73,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2005,25.7,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2006,22.2,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2006,22.24,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2007,18.57,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2007,18.6,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2008,15.1,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2008,15.12,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2009,14.05,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2009,14.1,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2011,10.4,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2011,10.36,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2012,10.98,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2012,11.0,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2013,9.3,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2013,9.31,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2014,9.0,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2014,8.99,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2015,8.58,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2015,8.6,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2016,10.1,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2016,10.07,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2017,9.18,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2017,9.2,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2018,7.7,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2018,7.7,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2019,5.7,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2019,5.69,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2020,6.41,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2020,6.4,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2021,5.4,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+2021,5.4,Pobreza Moderada ($3.65/día),BOL,WB_PIP_HEADCOUNT_LMIC,Banco Mundial
+1990,42.18,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+1990,42.2,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+1992,58.2,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+1992,58.2,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+1997,46.07,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+1997,46.1,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+1999,50.0,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+1999,50.04,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2000,55.82,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2000,55.8,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2001,51.8,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2001,51.78,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2002,53.81,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2002,53.8,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2004,45.8,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2004,45.81,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2005,47.21,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2005,47.2,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2006,42.1,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2006,42.08,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2007,41.16,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2007,41.2,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2008,33.9,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2008,33.92,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2009,28.9,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2009,28.9,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2011,23.5,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2011,23.47,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2012,23.67,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2012,23.7,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2013,21.8,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2013,21.76,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2014,20.2,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2014,20.19,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2015,20.48,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2015,20.5,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2016,22.0,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2016,21.97,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2017,21.02,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2017,21.0,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2018,19.1,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2018,19.1,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2019,15.5,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2019,15.54,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2020,17.29,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2020,17.3,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2021,15.2,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2021,15.18,Pobreza ($6.85/día),BOL,WB_PIP_HEADCOUNT_UMIC,Banco Mundial
+2011,13.7,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2012,12.7,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2013,12.1,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2014,11.8,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2015,11.2,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2016,12.6,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2017,10.8,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2018,9.6,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2019,6.5,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2020,7.6,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2021,5.5,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2022,5.5,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2023,5.4,Pobreza Multidimensional,BOL,SI.POV.MPWB,Banco Mundial
+2011,3.80715,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2012,3.12683,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2013,3.13306,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2014,4.3438,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2015,3.7643,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2016,3.04668,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2017,1.22807,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2018,1.55656,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2019,2.18443,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2020,2.05767,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2021,1.38387,Privación Educación - Matrícula,BOL,WB_MPM_EDU_ENROLL,Banco Mundial
+2011,17.6262,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2012,17.6589,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2013,16.7168,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2014,18.365,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2015,15.2228,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2016,16.8422,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2017,16.182,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2018,15.3138,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2019,13.383,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2020,13.9759,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2021,12.2812,Privación Educación - Logro,BOL,WB_MPM_EDU_ATT,Banco Mundial
+2011,11.5377,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2012,8.873,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2013,9.54623,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2014,9.60156,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2015,8.37274,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2016,7.27893,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2017,7.21888,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2018,6.23139,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2019,4.87155,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2020,4.37238,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2021,2.93862,Privación Electricidad,BOL,WB_MPM_ELEC,Banco Mundial
+2011,17.8736,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2012,8.89974,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2013,8.69394,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2014,7.88311,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2015,10.8247,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2016,11.6825,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2017,9.68505,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2018,9.39219,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2019,7.38695,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2020,6.55371,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2021,9.90372,Privación Agua Potable,BOL,WB_MPM_WATER,Banco Mundial
+2011,19.1615,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2012,27.6342,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2013,26.4322,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2014,32.5753,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2015,26.6481,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2016,21.675,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2017,22.2947,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2018,19.7796,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2019,16.3232,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2020,17.7154,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2021,13.906,Privación Saneamiento,BOL,WB_MPM_SANT,Banco Mundial
+2011,5.29891,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2012,6.46794,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2013,5.17307,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2014,4.27589,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2015,4.62996,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2016,5.62034,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2017,4.93336,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2018,3.27489,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2019,1.92054,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2020,3.12151,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2021,1.9645,Privación Pobreza Monetaria,BOL,WB_MPM_MONETARY,Banco Mundial
+2000,66.4,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2001,63.1,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2002,63.3,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2004,63.1,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2005,60.6,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2006,59.9,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2007,60.1,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2008,57.3,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2009,51.3,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2011,45.1,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2012,43.3,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2013,38.9,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2014,39.2,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2015,38.6,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2016,39.5,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2017,36.4,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2018,34.5,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2019,37.2,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2020,39.0,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2021,36.4,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+2022,37.7,Pobreza Línea Nacional,BOL,WB_WDI_SI_POV_NAHC,Banco Mundial
+1990,5124.48798110938,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1991,5283.1182549384,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1992,5261.66167770736,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1993,5378.5440973202,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1994,5521.66025440424,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1995,5671.82158266672,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1996,5810.67445720966,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1997,5989.41431945001,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1998,6180.54968912851,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1999,6099.5115222225,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2000,6146.02929379703,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2001,6144.97829465098,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2002,6193.26347494844,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2003,6255.51558261865,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2004,6407.83811795626,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2005,6579.31228867825,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2006,6778.38492535327,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2007,6967.56988043206,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2008,7272.1662422642,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2009,7392.16259288398,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2010,7571.67809247102,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2011,7837.49318801327,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2012,8108.20518828237,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2013,8524.03213402885,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2014,8851.71162782477,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2015,9141.92840900882,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2016,9390.79063843794,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2017,9642.81395706132,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2018,9907.06256669222,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2019,9985.23048460376,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2020,9000.97565203128,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2021,9454.19814680002,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2022,9681.70743033851,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2023,9843.97014249285,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+2024,9844.27685167629,PIB per cápita (PPA),BOL,NY.GDP.PCAP.PP.KD,Banco Mundial
+1991,2.934,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+1992,3.031,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+1993,3.05,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+1994,3.08,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+1995,2.661,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+1996,2.373,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+1997,2.08,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+1998,2.121,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+1999,2.303,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2000,2.447,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2001,2.636,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2002,2.613,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2003,2.664,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2004,2.622,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2005,2.603,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2006,2.577,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2007,2.616,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2008,2.603,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2009,2.973,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2010,2.608,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2011,2.255,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2012,2.066,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2013,2.437,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2014,2.021,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2015,3.111,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2016,3.498,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2017,3.655,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2018,3.519,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2019,3.682,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2020,7.903,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2021,5.089,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2022,3.552,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2023,3.024,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+2024,3.091,Tasa Desempleo,BOL,SL.UEM.TOTL.ZS,Banco Mundial
+1960,3702323.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1961,3778731.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1962,3857493.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1963,3938913.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1964,4022996.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1965,4109796.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1966,4199550.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1967,4292572.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1968,4388944.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1969,4488232.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1970,4590010.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1971,4694342.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1972,4800978.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1973,4910200.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1974,5022475.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1975,5137539.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1976,5256496.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1977,5379166.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1978,5504123.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1979,5630849.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1980,5758900.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1981,5888109.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1982,6018088.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1983,6149060.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1984,6281868.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1985,6416185.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1986,6552479.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1987,6692162.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1988,6835508.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1989,6981766.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1990,7130142.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1991,7280289.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1992,7430336.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1993,7579195.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1994,7727322.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1995,7874676.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1996,8021736.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1997,8167900.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1998,8313394.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1999,8459806.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2000,8606326.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2001,8752736.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2002,8900355.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2003,9050700.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2004,9204287.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2005,9360754.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2006,9521689.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2007,9685960.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2008,9850858.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2009,10016275.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2010,10182345.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2011,10348929.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2012,10515807.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2013,10682608.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2014,10848888.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2015,11014705.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2016,11180020.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2017,11344587.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2018,11508368.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2019,11671386.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2020,11816299.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2021,11937360.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2022,12077154.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2023,12244159.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+2024,12413315.0,Población Total,BOL,SP.POP.TOTL,Banco Mundial
+1960,11.5331525756195,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1961,7.56149307183899,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1962,5.87933142225296,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1963,-0.706357214552389,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1964,10.1818181818181,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1965,2.86028602860271,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1966,6.95187165775404,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1967,11.1999999990001,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1968,5.47062350162299,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1969,2.20974847251324,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1970,3.95550921099769,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1971,3.67461430575032,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1972,6.5115440115437,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1973,31.4860287891618,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1974,62.8360756029239,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1975,7.97674602546866,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1976,4.49401164707216,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1977,8.10725552050415,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1978,10.3556722757191,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1979,19.7197167787999,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1980,47.2416501018426,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1981,32.1336011133424,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1982,123.535718565329,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1983,275.586283560362,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1984,1281.34994174486,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1985,11749.6396321438,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1986,276.335967563202,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1987,14.5786984489191,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1988,16.0020910549391,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1989,15.1734681125732,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1990,17.1187746048239,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1991,21.4470698171141,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1992,12.060323601829,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1993,8.52787695688003,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1994,7.87404421467434,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1995,10.1932067630745,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1996,12.4254866180049,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1997,4.70844436028193,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1998,7.67322895675083,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1999,2.15951626835598,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2000,4.60822998872598,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2001,1.58965377879568,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2002,0.92825885161107,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2003,3.33727499671534,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2004,4.43738080101725,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2005,5.39323106890663,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2006,4.28239604802561,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2007,8.70560923578869,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2008,14.0068107702519,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2009,3.34645420142014,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2010,2.50327605844241,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2011,9.88446419823883,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2012,4.51560291399376,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2013,5.73640023719607,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2014,5.76660074579144,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2015,4.05961041135645,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2016,3.62321431764138,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2017,2.8227580554717,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2018,2.27205987230155,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2019,1.83954504969026,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2020,0.940742153381849,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2021,0.737383721452275,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2022,1.74632872945969,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2023,2.57688800489192,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+2024,5.09976568317427,Inflación anual (%),BOL,FP.CPI.TOTL.ZG,Banco Mundial
+1961,2.08929594236781,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1962,5.57891786210295,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1963,6.79762576905429,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1964,3.95659653084567,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1965,4.91344195525978,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1966,7.17058966306621,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1967,6.31721951733537,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1968,8.52944308831111,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1969,4.47409732886864,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1970,5.23102930423347,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1971,5.06333643861971,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1972,7.967485209709,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1973,5.73916152572542,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1974,2.9395678082784,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1975,7.31101773140009,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1976,4.61456748598627,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1977,4.97121565700267,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1978,2.05269456633279,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1979,0.133344047803647,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1980,-1.37177291052775,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1981,0.27561637277573,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1982,-3.93873792499608,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1983,-4.04212140271022,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1984,-0.200665696939353,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1985,-1.67638978272154,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1986,-2.57388420056628,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1987,2.4634846196991,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1988,2.90949796034216,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1989,3.79013096203759,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1990,4.63578742813276,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1991,5.26652666784713,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1992,1.64649818317069,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1993,4.26929611661502,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1994,4.66726510266786,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1995,4.67827659709971,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1996,4.36134195244576,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1997,4.95420874299721,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1998,5.02935475543072,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1999,0.426885422588825,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2000,2.50781080899483,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2001,1.68379912721825,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2002,2.48556573783829,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2003,2.71133983700673,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2004,4.17329558916248,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2005,4.42143312687979,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2006,4.79700882356067,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2007,4.56438426887887,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2008,6.14849787462164,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2009,3.35699957430565,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2010,4.1267225910567,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2011,5.204092443086,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2012,5.12227558091757,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2013,6.79601142810841,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2014,5.46056950635136,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2015,4.85718717971413,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2016,4.26392086382113,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2017,4.19520633360395,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2018,4.22362365271844,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2019,2.21670563961031,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2020,-8.7378843576993,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2021,6.11137269714146,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2022,3.60568042633635,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2023,3.08196521047731,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+2024,1.38468278972252,Crecimiento PIB anual (%),BOL,NY.GDP.MKTP.KD.ZG,Banco Mundial
+1986,11.9714543270861,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1987,12.1675796191782,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1988,11.6792372729839,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1989,13.0645371204366,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1990,14.1920657191537,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1991,14.5284411457768,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1992,17.5620012095936,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1993,20.3773917815907,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1994,18.9761004512685,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1995,17.7068003466498,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1996,18.8322628754362,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1997,19.688854008682,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1998,19.6762972839685,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1999,20.5041202732739,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+2000,20.5536490053406,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+2001,24.2449169289855,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+2002,28.7844354599794,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+2003,28.2076378858982,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+2004,27.2111987248072,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+2005,25.9831530558235,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+2006,23.9380392527656,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+2007,21.8110433637866,Gasto público (% PIB),BOL,GC.XPN.TOTL.GD.ZS,Banco Mundial
+1960,16.2089752176825,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1961,16.3998357963875,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1962,15.1492397221701,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1963,16.9804741980474,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1964,20.3001701995977,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1965,21.4623955431755,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1966,21.2578616352201,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1967,22.4969372981401,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1968,19.7802197802198,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1969,20.4183266932271,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1970,24.5985763946367,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1971,21.3890596189305,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1972,21.1124401913876,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1973,27.7144666033555,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1974,35.2924380145624,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1975,25.9383183008438,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1976,27.6766605081676,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1977,26.7741286136789,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1978,22.595143746177,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1979,24.1747034696819,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1980,24.5274539587809,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1981,23.2663260926749,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1982,29.0643788798214,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1983,28.3167867521197,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1984,23.6548634386039,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1985,19.0499334729456,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1986,21.324012266832,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1987,19.6304753728154,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1988,18.767446879255,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1989,22.4982161104834,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1990,22.7769821388572,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1991,21.4793468638824,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1992,20.0457617754806,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1993,19.0807651898888,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1994,21.6633117424271,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1995,22.5514216225024,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1996,22.5818705788073,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1997,21.1106028890051,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1998,19.6986848946719,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+1999,16.8808993524959,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2000,18.2747449737713,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2001,19.972149230267,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2002,21.6344550841802,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2003,25.6007344519017,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2004,31.1383905185998,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2005,35.5481429306567,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2006,41.771714268103,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2007,41.7956567530236,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2008,44.9065559925589,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2009,35.7226248254274,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2010,41.1874561416131,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2011,44.0917018533308,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2012,47.1661966249317,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2013,44.0924795250944,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2014,43.2930879909317,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2015,30.8682960291245,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2016,24.4880055394464,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2017,24.9041443675799,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2018,25.9887950588635,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2019,24.9672622840166,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2020,20.2725897857053,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2021,27.8253459097756,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2022,32.6115548527874,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2023,25.5322398177202,Exportaciones (% PIB),BOL,NE.EXP.GNFS.ZS,Banco Mundial
+2002,7.1950478553772,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2003,6.62961912155151,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2004,6.84771823883057,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2005,6.71352529525757,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2006,6.43421983718872,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2007,6.72048997879028,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2008,6.72302007675171,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2009,7.57486009597778,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2010,6.97379016876221,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2011,6.45056009292603,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2012,6.62799978256226,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2013,6.80321979522705,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2014,7.47812986373901,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2015,8.14342975616455,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2016,8.15060997009277,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2017,8.09724044799805,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2018,8.01587009429932,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2019,8.09103965759277,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2020,8.43710994720459,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2021,7.96215009689331,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2022,7.57550001144409,Gasto en educación (% PIB),BOL,SE.XPD.TOTL.GD.ZS,Banco Mundial
+2000,4.39554119,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2001,4.82522202,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2002,4.89645052,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2003,5.19709635,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2004,4.86315727,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2005,5.07408142,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2006,4.66087532,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2007,4.6968894,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2008,4.60677242,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2009,5.17444515,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2010,5.20230532,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2011,5.17306805,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2012,5.2539444,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2013,5.57465124,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2014,5.89613628,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2015,6.55064964,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2016,6.83333063,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2017,6.4901948,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2018,6.60399437,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2019,6.88792992,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2020,8.0225811,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2021,8.159729,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
+2022,8.43142891,Gasto en salud (% PIB),BOL,SH.XPD.CHEX.GD.ZS,Banco Mundial
