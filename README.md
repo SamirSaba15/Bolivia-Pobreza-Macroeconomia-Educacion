@@ -19,6 +19,11 @@ Análisis integral de la pobreza en Bolivia mediante ciencia de datos, integrand
 - **📊 Visualizaciones profesionales** para storytelling de datos
 - **💡 Recomendaciones de política** basadas en análisis cuantitativo
 
+### 🗺️ Mapas y Gráficos Interactivos
+
+Puedes explorar la visualización interactiva de la pobreza en Sudamérica [aquí](https://samirsaba15.github.io/Bolivia-Pobreza-Macroeconomia-Educacion/visuals/mapa_interactivo_pobreza_sudamérica (1).html).
+Y el mapa mejorado del 2022 [aquí](https://samirsaba15.github.io/Bolivia-Pobreza-Macroeconomia-Educacion/visuals/mapa_pobreza_sudamerica_2022_mejorado.html).
+
 ## 📊 Hallazgos Clave
 
 ### Correlaciones Significativas
