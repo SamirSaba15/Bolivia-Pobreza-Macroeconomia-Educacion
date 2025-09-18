@@ -1,6 +1,9 @@
 # Bolivia-Pobreza-Macroeconomia-Educacion
 Análisis de Pobreza, Macroeconomía y Educación en Bolivia con ciencia de datos | 20+ indicadores del BM e INE | Identificación de drivers clave y recomendaciones de política basada en evidencia | Python, Pandas, APIs, Visualización
 
+### 📓 Notebook del Proyecto
+
+Puedes ver el análisis completo, incluyendo el código y todos los gráficos estáticos, en el [Notebook de Jupyter del proyecto](https://nbviewer.org/github/SamirSaba15/Bolivia-Pobreza-Macroeconomia-Educacion/blob/main/notebooks/Pobreza_BM_Bo_Fin3.ipynb). PD: los graficos interactivos de plotly no salen en el notebook rederizado, aparecerán en blanco
 
 # 📊 Análisis de Pobreza, Macroeconomía y Educación en Bolivia
 
