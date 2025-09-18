@@ -27,8 +27,11 @@ Y el mapa mejorado del 2022 [aquí](https://samirsaba15.github.io/Bolivia-Pobrez
 ## 📊 Hallazgos Clave
 
 ![Pobreza Monetaria y Nacional](images/Pobreza_monetaria_nacional.png)
-![Pobreza Latam](images/Pobrezas_ latam_ 2021.png)
+
+![Pobreza Latam](images/Pobrezas_latam_2021.png)
+
 ![Comparativa Multidimensional Latam 2021](images/Comparativa_multidimensional_Latam.png)
+
 ![Pobreza Multidimensional Bolivia Desglosada 2021](images/composicion_pob_multi.png)
 
 ### Correlaciones Significativas
