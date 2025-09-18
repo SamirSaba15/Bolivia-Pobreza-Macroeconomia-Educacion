@@ -26,6 +26,11 @@ Y el mapa mejorado del 2022 [aquí](https://samirsaba15.github.io/Bolivia-Pobrez
 
 ## 📊 Hallazgos Clave
 
+![Pobreza Monetaria y Nacional](images/Pobreza_monetaria_nacional.png)
+![Pobreza Latam](images/Pobrezas_ latam_ 2021.png)
+![Comparativa Multidimensional Latam 2021](images/Comparativa_multidimensional_Latam.png)
+![Pobreza Multidimensional Bolivia Desglosada 2021](images/composicion_pob_multi.png)
+
 ### Correlaciones Significativas
 | Variable | Correlación con Pobreza | Significancia |
 |----------|-------------------------|---------------|
@@ -33,6 +38,7 @@ Y el mapa mejorado del 2022 [aquí](https://samirsaba15.github.io/Bolivia-Pobrez
 | PIB per cápita | -0.65 | p = 0.001 |
 | Gasto en Educación | -0.55 | p = 0.017 |
 | Tasa de Desempleo | -0.44 | p = 0.038 |
+![Correlaciones Bolivia](images/Sensibilidad_Pobreza_1990-2021.png)
 
 ### Hallazgo Contraintuitivo
 **La inflación muestra correlación débil (-0.21) con pobreza**, explicable por:
